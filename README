@@ -1,4 +1,5 @@
-# Exam-Evaluator
+### Exam-Evaluator
+## ABSTRACT
 COVID-19 pandemic has affected almost every aspect of our lives. Healthcare 
 systems, businesses, economies, study, etc. all are adversely affected. Even in such 
 tough times, online study has proven to be a boon for students and teachers. It has 
@@ -10,7 +11,7 @@ teachers. This software makes the process of result generation easy and efficien
 This system saves a lot of time of the users. Main purpose of this system is to make 
 the online study process more interactive and smooth, to build a better 
 communication regarding studies between students and teachers. 
-INTRODUCTION
+## INTRODUCTION
 Due to the Covid-19 pandemic, education system has shifted to complete digital 
 mode. Educational institutes use various web conferencing apps to conduct online 
 classes. Online study is like a boon for the students in the times when the whole 
@@ -33,7 +34,7 @@ and efficiently. Teachers can create classes, add students and evaluate their an
 sheets. After evaluating answer sheets teacher can download compiled result of each 
 class in PDF format. Students can export to email or download their result in all 
 subjects in compiled form in PDF format. 
-PROBLEM DEFINITION
+## PROBLEM DEFINITION
 The main purpose of “EXAM-EVALUATOR” is to improve the exam evaluation system 
 easy and effective and consequently the online study system. Teachers were not 
 much familiar with the online mode of evaluation. There are various platforms 
