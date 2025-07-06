@@ -4,7 +4,9 @@
 COVID-19 pandemic has affected almost every aspect of our lives. Healthcare systems, businesses, economies, study, etc. all are adversely affected. 
 
 Even in such tough times, online study has proven to be a boon for students and teachers. It has helped millions of students to continue their learning process and continue their courses. 
+
 To enhance this system, “EXAM-EVALUATOR” has been developed. 
+
 In the times, when digital modes of study and learning are being used widely, “EXAM-EVALUATOR” is a much needed entity to benefit both the students and teachers. 
 
 This software makes the process of result generation easy and efficient. 
@@ -13,39 +15,52 @@ This system saves a lot of time of the users. Main purpose of this system is to 
 
 
 ## INTRODUCTION
-Due to the Covid-19 pandemic, education system has shifted to complete digital 
-mode. Educational institutes use various web conferencing apps to conduct online 
-classes. Online study is like a boon for the students in the times when the whole 
-world is undergoing the adversities of wide spread pandemic. Online studies has let 
-millions of students worldwide to keep their study courses continue. To make online 
-studies more effective and productive it needs to improve in the parts of evaluation 
-of exams and result generation. 
-When it comes to online exams or assignments, it becomes a tedious task to be 
-completed. In the times of online exams, submission of answer sheets documents 
-and then evaluating them is are two very important tasks. Students need a portal 
-where they can submit their answer sheets according to their class and subjects. 
-Similarly teachers also need something which can help them in evaluating the 
-uploaded answer sheets. 
-“EXAM-EVALUATOR” has been developed keeping in mind the problems faced by 
-students and teachers during online exams. As teachers were never much familiar 
-with online mode, this website offers them an easy alternate method of checking 
-students’ answer sheet and examination activities. This website is useful to evaluate 
-answer sheets in digital format. This system lets the teachers generate results easily 
-and efficiently. Teachers can create classes, add students and evaluate their answer 
-sheets. After evaluating answer sheets teacher can download compiled result of each 
-class in PDF format. Students can export to email or download their result in all 
-subjects in compiled form in PDF format. 
+Due to the Covid-19 pandemic, education system has shifted to complete digital mode. 
+
+Educational institutes use various web conferencing apps to conduct online classes. 
+
+Online study is like a boon for the students in the times when the whole world is undergoing the adversities of wide spread pandemic. 
+
+Online studies has let millions of students worldwide to keep their study courses continue. 
+
+To make online studies more effective and productive it needs to improve in the parts of evaluation of exams and result generation. 
+
+When it comes to online exams or assignments, it becomes a tedious task to be completed. 
+
+In the times of online exams, submission of answer sheets documents and then evaluating them is are two very important tasks. 
+
+Students need a portal where they can submit their answer sheets according to their class and subjects. 
+
+Similarly teachers also need something which can help them in evaluating the uploaded answer sheets. 
+
+“EXAM-EVALUATOR” has been developed keeping in mind the problems faced by students and teachers during online exams. 
+
+As teachers were never much familiar with online mode, this website offers them an easy alternate method of checking students’ answer sheet and examination activities. 
+
+This website is useful to evaluate answer sheets in digital format. 
+
+This system lets the teachers generate results easily and efficiently. Teachers can create classes, add students and evaluate their answer sheets. 
+
+After evaluating answer sheets teacher can download compiled result of each class in PDF format. 
+
+Students can export to email or download their result in all subjects in compiled form in PDF format. 
+
+
 ## PROBLEM DEFINITION
-The main purpose of “EXAM-EVALUATOR” is to improve the exam evaluation system 
-easy and effective and consequently the online study system. Teachers were not 
-much familiar with the online mode of evaluation. There are various platforms 
-available for online studies. But there is no such platform available that provides the 
-features of marks updating and result generation. 
+The main purpose of “EXAM-EVALUATOR” is to improve the exam evaluation system easy and effective and consequently the online study system. 
+
+Teachers were not much familiar with the online mode of evaluation. 
+
+There are various platforms available for online studies. 
+
+But there is no such platform available that provides the features of marks updating and result generation. 
+
 Following are some of the problems which led to the creation of this website: 
-Problem 1: There is no such single platform which provides both functionalities: 
-Storing and evaluating the answer sheets and automatic result generation. 
-Problem 2: It is very difficult to check the answer sheets by annotating the PDF files 
-on desktops or laptops. This task takes a lot of time and patience to check and 
+
+Problem 1: There is no such single platform which provides both functionalities: Storing and evaluating the answer sheets and automatic result generation. 
+
+Problem 2: It is very difficult to check the answer sheets by annotating the PDF files on desktops or laptops. This task takes a lot of time and patience to check and 
 evaluate the answer sheets of hundreds of students. 
+
 Problem 3: There is no such platform that displays detailed exam analysis and 
 generates a marksheet for each student. 
