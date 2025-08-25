@@ -134,41 +134,11 @@ We welcome contributions to improve Exam-Evaluator! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For support, feature requests, or general inquiries:
-
-- 📧 Email: support@exam-evaluator.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/exam-evaluator/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/exam-evaluator/discussions)
-
 ## 🌟 Acknowledgments
 
 - Dedicated to all educators who adapted to online teaching during challenging times
 - Special thanks to the students who inspired the need for better digital evaluation tools
 - Recognition to the development team for creating a solution that bridges the gap in online education
 
-## 📊 Project Status
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Contributors](https://img.shields.io/badge/contributors-welcome-orange)
-
----
-
-<div align="center">
-  <strong>"Transforming online education through efficient evaluation - because every student's effort deserves timely and accurate assessment."</strong>
-</div>
-
----
-
-<div align="center">
-  Made with ❤️ for the education community
+## 📊  Made with ❤️ for the education community
 </div>
